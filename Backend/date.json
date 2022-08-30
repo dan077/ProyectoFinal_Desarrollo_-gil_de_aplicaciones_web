@@ -1,0 +1,36 @@
+{
+    "Distritos":[
+        {
+            "Distrito":"Distrito 1",
+            "Violento":true,
+            "nombre": "Distrito 1",
+            "Ubicacion":[[ 39.27661605536491, -77.36178051557392], [ 39.046618427592755, -77.19036938063084]]
+            
+        },
+        {
+            "Distrito":"Distrito 2",
+            "Violento":false,
+            "nombre": "Distrito 2",
+            "Ubicacion":[[ 38.999674904620896, -77.40015697738],[ 38.81569437157346, -77.20445140991414]]
+        },
+        {
+            "Distrito":"Distrito 3",
+            "Violento":true,
+            "nombre": "Distrito 3",
+            "Ubicacion":[[38.92706452409136, -77.19149243324198], [38.74519712307339, -77.03543774705309]]  
+        },
+        {
+            "Distrito":"Distrito 4",
+            "Violento":false,
+            "nombre": "Distrito 4",
+            "Ubicacion":[[39.21493129030198, -77.1502937034288], [39.04875148207457, -77.0002937034288 ] ] 
+        },
+        {
+            "Distrito":"Distrito 5",
+            "Violento":true,
+            "nombre": "Distrito 5",
+            "Ubicacion":[[39.041196714867695, -77.15466382373023], [ 38.93996891590835, -76.8909919408635]]
+            
+        }
+    ]
+}
