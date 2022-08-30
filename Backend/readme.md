@@ -4,7 +4,6 @@ pip install -r requirements.txt
 #Comando para correr la api
 python app.py 
 
-
 #Nota:
 
 1.   Recomendamos crear un entorno virtual para ejecutar la api.
